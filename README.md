@@ -1,10 +1,10 @@
-# Music-Application
+# Music-Site
 ONLINE MUSIC SITE IN PHP
 
 **ADMIN LOGIN** 
 
-Username : Snehal
-Password : Shourya
+Username : harry
+Password : potter
 
 **DEVELOPED BY Snehal Solanke and Shourya Shelke**
 
